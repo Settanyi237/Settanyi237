@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Settanyi237
+- 👀 I’m interested in Frontend web development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Frontend Projects
+- 😄 Pronouns: him/he
